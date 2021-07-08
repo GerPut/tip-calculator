@@ -1,0 +1,1 @@
+A very basic JS app/tool created to help determine how much to tip (set at 15%) of a bill. Styling wise the app has a glowy look to it that was created with the box shadow effect and a border that stands out.
